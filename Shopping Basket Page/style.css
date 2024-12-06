@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.basket-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.basket-item {
+    align-items: center;
+}
+.Order{
+    background-color: #c2edbf;
+}
+
